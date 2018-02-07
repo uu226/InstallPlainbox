@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#Alex Wen, alex.wen@canonical.com
 import os
 import commands
 import subprocess
